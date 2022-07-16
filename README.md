@@ -2,7 +2,7 @@
 
 #### 🔹 Sobre esse projeto:
 
-Link: https://vercel.com/sysraafael/relogio-digital
+Link: https://relogio-digital-bice.vercel.app/
 
 #### 🔹 Technologies Used:
 - HTML
